@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 
 npm install react-router-dom
+
+ctrl + P 
+
+ai coloca .git/config e altera url
